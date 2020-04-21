@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Experimental Basics</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="items">
+        <item>Entradas simples</item>
+        <item>Entradas duplas</item>
+        <item>Resultados simples</item>
+        <item>Resultados duplos</item>
+    </string-array>
+    
+    
+    <!--  Drawer stuff -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Single input fragment -->
+
+    <string name="single_input_added">Adicionado!</string>
+
+    <!-- Single results fragment -->
+
+    <string name="single_variable_title">Uma Variável</string>
+    <string name="single_results_text1">Quantidade de medidas</string>
+    <string name="single_results_text2">\nMédia</string>
+    <string name="single_results_text3">\n\u03C3</string>
+    <string name="single_results_text4">\n\u03C3 Médio</string>
+    <string name="single_results_text5">Add</string>
+    <string name="single_results_text6">Reset</string>
+    
+     <!-- Single results fragment popups -->
+     
+     <string name="single_results_popup_text1">Unidade:</string>
+     <string name="single_results_popup_text2">Incerteza:</string>
+     <string name="single_results_popup_text3">Unidade</string>
+     
+        <!--Dual results fragment -->
+     
+     <string name="dual_variable_title">Duas Váriaveis</string>
+   
+
+
+</resources>
